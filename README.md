@@ -2,6 +2,8 @@
 
 Welcome to the source code repository for the Calorie Tracking App, a comprehensive application built using React Native. This app is designed to help users track their calorie intake, manage their food inventory, and maintain a healthy diet.
 
+![App Screenshots](images/compiled-screenshots.jpg)
+
 ## Features
 
 - **User Authentication**: Secure login and signup functionality using Firebase Authentication.
@@ -32,9 +34,3 @@ The project relies on several key dependencies, including:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
-
-Thank you for checking out the Calorie Tracking App! We hope it helps you maintain a healthy lifestyle.
